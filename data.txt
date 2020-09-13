@@ -1,3 +1,4 @@
 Name: Carmen Valencia
 Age: 30
 Fav color: Green
+Fav food: Eggs and potatoes
